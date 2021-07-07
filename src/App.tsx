@@ -13,7 +13,7 @@ function App() {
             alt="Workflow"
           />
           <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
-              Boiler Plate React App with Typescript and PWA
+              Boiler Plate React App with Typescript and PWA - on branch
             </h2>
         </div>
     </div>
